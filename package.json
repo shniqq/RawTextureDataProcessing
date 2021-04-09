@@ -1,0 +1,10 @@
+{
+    "name": "com.shniqq.raw-texture-data-processing",
+    "version": "1.0.0-preview.1",
+    "description": "Raw Texture Data Processing using Jobs.",
+    "author": "Andrew Raphael Lukasik",
+    "license": "MIT",
+    "displayName": "Raw Texture Data Processing",
+    "unity": "2020.3",
+    "type": "tool"
+}
